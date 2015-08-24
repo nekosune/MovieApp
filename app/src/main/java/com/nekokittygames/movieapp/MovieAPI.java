@@ -8,9 +8,5 @@ import android.app.Activity;
 public class MovieAPI {
 
 
-    public String testApplication(Activity act)
-    {
-        String apiKey=act.getString(R.string.movie_api_key);
-
-    }
+    
 }
